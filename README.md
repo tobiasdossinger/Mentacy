@@ -8,6 +8,7 @@ Das IoT-Produkt Mentacy besteht aus zwei Holzboxen, in der das Paar füreinande
 
 # Bestandteile des Prototypes
 
+## Die linke Holzbox
 Der Prototype besteht aus zwei Holzboxen. Die **linke Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* beinhaltet …
 
 - aus 0,8mm Pappelholz & Magneten
@@ -20,6 +21,7 @@ Der Prototype besteht aus zwei Holzboxen. Die **linke Holzbox** *(Ansicht: vorne
 
 *Datei: ./Mentacy-Box/LinkeBox/LinkeBox.ino*
 
+## Die rechte Holzbox
 Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht aus …
 
 - aus 0,8mm Pappelholz & Magneten
