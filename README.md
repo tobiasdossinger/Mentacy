@@ -32,13 +32,14 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 
 # Skizzen
 
+![lTFF_Memento_box](https://user-images.githubusercontent.com/33021996/61012465-f6015500-a37e-11e9-9aa3-1bbe51485d1e.png)
 
 # Fritzing
 
 
 
 # DONE
-- [x] Holzboxen-Protypen 
+- [x] Holzboxen 
 
 # Vision
 weiteres Vorgehen:
