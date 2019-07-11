@@ -15,8 +15,8 @@ Der Prototype besteht aus zwei Holzboxen. Die **linke Holzbox** *(Ansicht: vorne
 - 1 x Arduino Uno
 - 1 x Servo Motor (DSSERVO DS3218MG) + Gegenpart
 - 1 x RFID-Chip (MFRC522)
-- 1 x Memento á 3 LED´s + Magneten -
-- 1 x Memento á 3 LED´s mit RFID Tag + Magnet +
+- 1 x Memento á 3 LED´s + Magnet-Pol -
+- 1 x Memento á 3 LED´s mit RFID Tag + Magnet-Pol +
     - eine LED als Status-LED für Memento
 
 *Datei: ./Mentacy-Box/LinkeBox/LinkeBox.ino*
@@ -44,7 +44,7 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 
 
 # DONE
-- [x] Holzboxen 
+- [x] Holzboxen bauen
 
 # Vision
 
@@ -54,5 +54,5 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 
 - [ ] Arduino an Holzbox durch ESP´s ersetzen
 - [ ] ESP - Kommunikation zwischen Mementos, linke und rechte Holzbox und der Auflegematratze *(Ordner: Demo-Memento)*
-- [ ] Fritzing
+- [ ] Fritzing vom Holzbox-Prototype
  
