@@ -26,7 +26,7 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 
 - aus 0,8mm Pappelholz & 2 x Magnet-Pol +
 - 1 x Arduino Uno
-- 2 x Mementos á 3 LED´s & Magnet-Pol -
+- 2 x Mementos á 3 LED´s & 2 x Magnet-Pol -
 
 *Datei: ./Mentacy-Box/RechteBox/RechteBox.ino*
 
@@ -52,13 +52,12 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 - [ ] Matratzen-Prototype bauen & testen
 ![TFF-Matratze-T 2](https://user-images.githubusercontent.com/33021996/61014004-90649700-a385-11e9-846b-58c5fe9880f0.png)
 
-- [ ] Arduino an Holzbox durch ESP´s ersetzen
+- [ ] Arduinos an Holzbox durch ESP´s ersetzen
 - [ ] ESP - Kommunikation zwischen Mementos, linke und rechte Holzbox und der Auflegematratze *(Ordner: Demo-Memento)*
-- [ ] Fritzing vom Holzbox-Prototype
+- [ ] Fritzing vom Holzbox-Prototyp
 
+---
+*Für Feedback und/oder Fragen stehen wir Ihnen gerne zur Verfügung.*
 
-**Für Feedback und/oder Fragen stehen wir Ihnen gerne zur Verfügung.**
-
-**Liebe Grüße**
-**The Forbidden Fruit**
+**Liebe Grüße <br/> The Forbidden Fruit mit Mentacy**
  
