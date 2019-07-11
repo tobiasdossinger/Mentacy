@@ -32,11 +32,12 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 
 # Skizzen
 **Holzbox**
+![lTFF_Memento_box_T](https://user-images.githubusercontent.com/33021996/61014017-9bb7c280-a385-11e9-9897-1b72276e9f59.png)
 ![lTFF_Memento_box](https://user-images.githubusercontent.com/33021996/61012465-f6015500-a37e-11e9-9aa3-1bbe51485d1e.png)
 **Memento**
 
-# Fritzing
-
+**Auflegematratze**
+![TFF-Matratze-T 2](https://user-images.githubusercontent.com/33021996/61014004-90649700-a385-11e9-846b-58c5fe9880f0.png)
 
 
 # DONE
@@ -46,6 +47,6 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 weiteres Vorgehen:
 - [ ] Arduino an Holzbox durch ESP´s ersetzen
 - [ ] Matratzen-Prototype bauen & testen 
-- [ ] ESP - Kommunikation zwischen Mementos, linker und rechter Holzbox und der Auflagematratze *Ordner: Demo-Memento*
-
+- [ ] ESP - Kommunikation zwischen Mementos, linker und rechter Holzbox und der Auflegematratze *Ordner: Demo-Memento*
+- [ ] Fritzing
  
