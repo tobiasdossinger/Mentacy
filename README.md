@@ -55,4 +55,10 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 - [ ] Arduino an Holzbox durch ESP´s ersetzen
 - [ ] ESP - Kommunikation zwischen Mementos, linke und rechte Holzbox und der Auflegematratze *(Ordner: Demo-Memento)*
 - [ ] Fritzing vom Holzbox-Prototype
+
+
+**Für Feedback und/oder Fragen stehen wir Ihnen gerne zur Verfügung.**
+
+**Liebe Grüße**
+**The Forbidden Fruit**
  
