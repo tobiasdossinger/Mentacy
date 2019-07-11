@@ -31,11 +31,16 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 *Datei: ./Mentacy-Box/RechteBox/RechteBox.ino*
 
 # Skizzen
-**Holzbox**
-![lTFF_Memento_box_T](https://user-images.githubusercontent.com/33021996/61014017-9bb7c280-a385-11e9-9897-1b72276e9f59.png)
+## **Holzbox**
 ![lTFF_Memento_box](https://user-images.githubusercontent.com/33021996/61012465-f6015500-a37e-11e9-9aa3-1bbe51485d1e.png)
-**Memento**
+**…mit verbauter Technik:**
+![lTFF_Memento_box_T](https://user-images.githubusercontent.com/33021996/61014017-9bb7c280-a385-11e9-9897-1b72276e9f59.png)
 
+
+## **Memento**
+![TFF-Memento](https://user-images.githubusercontent.com/33021996/61014266-e554dd00-a386-11e9-8f42-7184145be4bc.png)
+**…mit verbauter Technik:**
+![TFF-Memento-T](https://user-images.githubusercontent.com/33021996/61014278-f4d42600-a386-11e9-864a-f9eebc1cc0c7.png)
 
 
 # DONE
