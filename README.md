@@ -31,8 +31,9 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 *Datei: ./Mentacy-Box/RechteBox/RechteBox.ino*
 
 # Skizzen
-
+**Holzbox**
 ![lTFF_Memento_box](https://user-images.githubusercontent.com/33021996/61012465-f6015500-a37e-11e9-9aa3-1bbe51485d1e.png)
+**Memento**
 
 # Fritzing
 
@@ -45,6 +46,6 @@ Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht 
 weiteres Vorgehen:
 - [ ] Arduino an Holzbox durch ESP´s ersetzen
 - [ ] Matratzen-Prototype bauen & testen 
-- [ ] ESP - Kommunikation zwischen Mementos, linker und rechter Holzbox und der Auflegematratze *Ordner: Demo-Memento*
+- [ ] ESP - Kommunikation zwischen Mementos, linker und rechter Holzbox und der Auflagematratze *Ordner: Demo-Memento*
 
  
