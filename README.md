@@ -11,12 +11,12 @@ Das IoT-Produkt Mentacy besteht aus zwei Holzboxen, in der das Paar füreinande
 ## Die linke Holzbox
 Der Prototype besteht aus zwei Holzboxen. Die **linke Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* beinhaltet …
 
-- aus 0,8mm Pappelholz & Magneten
+- aus 0,8mm Pappelholz & 2 x Magnet-Pol +
 - 1 x Arduino Uno
 - 1 x Servo Motor (DSSERVO DS3218MG) + Gegenpart
 - 1 x RFID-Chip (MFRC522)
-- 1 x Memento á 3 LED´s 
-- 1 x Memento á 3 LED´s mit RFID Tag
+- 1 x Memento á 3 LED´s + Magneten -
+- 1 x Memento á 3 LED´s mit RFID Tag + Magnet +
     - eine LED als Status-LED für Memento
 
 *Datei: ./Mentacy-Box/LinkeBox/LinkeBox.ino*
@@ -24,9 +24,9 @@ Der Prototype besteht aus zwei Holzboxen. Die **linke Holzbox** *(Ansicht: vorne
 ## Die rechte Holzbox
 Die **rechte Holzbox** *(Ansicht: vorne Memento und hinten Scharniere)* besteht aus …
 
-- aus 0,8mm Pappelholz & Magneten
+- aus 0,8mm Pappelholz & 2 x Magnet-Pol +
 - 1 x Arduino Uno
-- 2 x Mementos á 3 LED´s 
+- 2 x Mementos á 3 LED´s & Magnet-Pol -
 
 *Datei: ./Mentacy-Box/RechteBox/RechteBox.ino*
 
